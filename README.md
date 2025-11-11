@@ -28,12 +28,6 @@ Email: hello@usefuliam.dev (yes, that's a real domain)
  Fun FactI once fixed a production bug by adding a single semicolon.
 The postmortem was 47 slides long.ascii
 
-   ___ _       __  __     _     _   
-  / __\ | ___ / _|/ _|   / \   /_\  
- / /  | |/ _ \ |_| |_   / _ \ //_\\ 
-/ /___| |  __/  _|  _| / ___ \/  _  \
-\____/|_|\___|_| |_|  /_/   \_\_/ \_\
-                                     
        "Be useful, dammit."
 
  Star this repo if you believe in the power of well-commented code.
