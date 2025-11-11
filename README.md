@@ -19,13 +19,11 @@ If it's broken, I'll fix it. If it doesn't exist, I'll build it. If it's boring,
 Python • JavaScript • TypeScript • Bash • Docker • Linux • Git (obviously)
 NeoVim • Tmux • Alacritty • Arch Linux (btw)
 
- Currently Over-EngineeringA CLI tool that does your job for you (coming soon™)
+Currently Over-EngineeringA CLI tool that does your job for you (coming soon™)
 A dotfiles repo that's basically my personality in ~/.config
 Something with AI that will either change the world or just roast your code
 
-Email: hello@usefuliam.dev (yes, that's a real domain)
-
- Fun FactI once fixed a production bug by adding a single semicolon.
+Fun FactI once fixed a production bug by adding a single semicolon.
 The postmortem was 47 slides long.ascii
 
        "Be useful, dammit."
