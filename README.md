@@ -23,10 +23,7 @@ NeoVim • Tmux • Alacritty • Arch Linux (btw)
 A dotfiles repo that's basically my personality in ~/.config
 Something with AI that will either change the world or just roast your code
 
- GitHub Stats (because peer pressure)UsefulIAm's GitHub stats
-Top Languages Trophies (yes, I'm that guy)![trophy](https://github-profile-trophy.vercel.app/?username=UsefulIAm&theme=dracula&no-frame=true&margin-w=15) Get In TouchX/Twitter: @UsefulIAm – where I complain about tabs vs spaces
 Email: hello@usefuliam.dev (yes, that's a real domain)
-Buy me a brew: ko-fi.com/usefuliam
 
  Fun FactI once fixed a production bug by adding a single semicolon.
 The postmortem was 47 slides long.ascii
